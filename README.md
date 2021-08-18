@@ -1,6 +1,11 @@
-# Reaction-timer Live Demo
+# Reaction-timer
 
-[VIEW LIVE DEMO](https://reaction-timer-sz.herokuapp.com/)
+Mini-games created with vue.
+for practice purpose
+
+# Live Demo
+
+[VIEW LIVE DEMO](https://reaction-timer-vue2.netlify.app/)
 
 ## Project setup
 
