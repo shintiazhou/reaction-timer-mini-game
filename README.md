@@ -1,4 +1,4 @@
-# learn-vue
+# reaction-timer
 
 ## Project setup
 ```
